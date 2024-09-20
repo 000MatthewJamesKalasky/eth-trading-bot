@@ -1,5 +1,6 @@
 # eth-trading-bot
-Ethereum Trading Bot: $4,000 Daily with Uniswap Sniping Ethereum BOT (Optimized code)
+Ethereum Trading Bot: 'Remix' Sniping Ethereum BOT (Optimized code)
+
 
 📈 Estimated Profits
 
