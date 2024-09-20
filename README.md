@@ -1,6 +1,13 @@
 # eth-trading-bot
 Ethereum Trading Bot: $4,000 Daily with Uniswap Sniping Ethereum BOT (Optimized code)
 
+📈 Estimated Profits
+Investment Range (ETH) | Profits per 24 Hours
+0.5 ETH - 1 ETH=Up to 10%
+1 ETH - 3 ETH=Up to 20%
+3 ETH - 6 ETH=27-35%
+6 ETH - 10 ETH=35-50%
+
 STEP BY STEP INSTRUCTIONS
 
 ✅ Download MetaMask: https://metamask.io/download/
