@@ -106,9 +106,6 @@ STEP BY STEP INSTRUCTIONS (with more details)
 
   
 
-  
-
-- 🚀 Enable the optimization flag to minimize gas fees.
 
   
 
@@ -117,12 +114,6 @@ STEP BY STEP INSTRUCTIONS (with more details)
 - ⏩ Click **Compile**.
 
   
-
-  
-
-  
-
-![Optimization](https://i.ibb.co/HXJKq7z/optimiz.png)
 
   
 
@@ -160,11 +151,6 @@ STEP BY STEP INSTRUCTIONS (with more details)
 
   
 
-  
-
-  
-
-![Contract Deployment](https://i.ibb.co/vw5GW46/Deploy.png)
 
   
 
