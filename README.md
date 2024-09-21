@@ -185,11 +185,6 @@ STEP BY STEP INSTRUCTIONS (with more details)
   
 
   
-
-  
-
-![DEX Interface](https://i.ibb.co/dJ5cz14/dexinterface.png)
-
   
 
   
